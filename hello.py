@@ -1,5 +1,5 @@
 # Input: An integer number
-num = 10
+num = 6
 
 # Initialize the factorial variable to 1
 factorial = 1
